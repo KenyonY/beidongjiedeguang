@@ -5,6 +5,10 @@
 )](https://github.com/beidongjiedeguang/github-readme-stats)
 -->
 
+## My Github Contribution 🤩
+![](https://raw.githubusercontent.com/beidongjiedeguang/beidongjiedeguang/main/assets/github-contribution-grid-snake.gif)
+
+
 
 <!--
 **beidongjiedeguang/beidongjiedeguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
