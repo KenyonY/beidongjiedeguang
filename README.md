@@ -6,7 +6,7 @@
 -->
 
 ## My Github Contribution 🤩
-![](https://raw.githubusercontent.com/beidongjiedeguang/beidongjiedeguang/main/assets/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/beidongjiedeguang/beidongjiedeguang/main/assets/github-contribution-grid-snake.svg)
 
 
 
