@@ -11,6 +11,8 @@
 
 
 <!--
+出发工作流： https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows#scheduled-events-schedule  
+
 **beidongjiedeguang/beidongjiedeguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:  
