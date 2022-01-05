@@ -5,9 +5,10 @@
 )](https://github.com/beidongjiedeguang/github-readme-stats)
 -->
 
+<!--
 ## My Github Contribution 🤩
 ![](https://raw.githubusercontent.com/beidongjiedeguang/beidongjiedeguang/main/assets/github-contribution-grid-snake.svg)
-
+-->
 
 
 <!--
