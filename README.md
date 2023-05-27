@@ -1,5 +1,8 @@
 ### Hi there 👋
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=beidongjiedeguang&theme=dracula)
+-->
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidongjiedeguang&hide=JupyterNotebook,javascript,html&show_icons=true&theme=dracula
 )](https://github.com/beidongjiedeguang/github-readme-stats)
